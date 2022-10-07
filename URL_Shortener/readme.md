@@ -1,6 +1,6 @@
-# Título do projeto
+# Short URL
 
-Um parágrafo da descrição do projeto vai aqui
+Projeto para encurtar qualquer URL utilizando banco de dados NOSQL MongoDB
 
 ## 🚀 Começando
 
@@ -8,50 +8,12 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
-
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Foi criado utilizando o nodeJS, então é só utilizar o seguinte comando para instalar todas as dependencias do projeto
 
 ```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
+npm install
 ```
 
 ## 📦 Implantação
@@ -60,40 +22,23 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+* [NodeJs](https://nodejs.org/en/)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 ## ✒️ Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+* **Web Dev Simplified** - *How To Build A URL Shortener With Node.js, Express, and MongoDB* - [Web Dev Simplified](https://www.youtube.com/watch?v=SLpUKAGnm-g)
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença padrão do GitHub - veja o arquivo [LICENSE.md] para detalhes.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
+* Agradeço a todos os devs que disponibilizam conteúdo gratuíto no youtube, principalmente Web Dev Simplified 📢;
 
 ---
 ⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
