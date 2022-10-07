@@ -6,7 +6,6 @@ Projeto para encurtar qualquer URL utilizando banco de dados NOSQL MongoDB
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 🔧 Instalação
 
@@ -27,8 +26,6 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 * [MongoDB](https://www.mongodb.com/)
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Web Dev Simplified** - *How To Build A URL Shortener With Node.js, Express, and MongoDB* - [Web Dev Simplified](https://www.youtube.com/watch?v=SLpUKAGnm-g)
 
