@@ -1,0 +1,12 @@
+version: "3.2"
+#Esse código é mais simples comparado ao rabbitmq pois não precisa de um usuário e senha para poder acessar
+services:
+  mongodb:
+    image: 'mongo:latest'
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodb_data_container:/data/db
+      #Lembrando que é importante criar um volume, pois quando parar a execução do container os dados iriam sumir
+volumes:
+  mongodb_data_container:

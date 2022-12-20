@@ -1,0 +1,23 @@
+
+=> Dependencias <=
+Primeiro vou mostrar as dependencias utilizadas nesse projeto
+-amqplib é uma biblioteca para realizar a conexão da fila no rabbitMQ e criar a fila
+-@types/node para algumas definições de tipo úteis
+-dotenv é uma pequena biblioteca para acessar variáveis de ambiente
+-axios é um cliente http baseado em promises, pode interceptar requisições http e pode examinar ou alterar estas requisições
+-ts-node é tipo um nodemon mas para typescript
+
+=>docker-compose<=
+Configurações para criação do container contendo a imagem do rabbitmq no docker
+
+=> Enums <=
+Enums são tipos de campos que consistem em um conjunto fixo de constantes com valores pré definidos.
+
+=> messageChannel <=
+Aqui é onde é feita a conexão com o container do RabbitMQ e a criação da fila de canais
+
+=> Candles <=
+Aqui é o modelo dos candles, classe onde defini as propriedades dos candles, construtor e metodos para calcular os valores (open, close, high, low) e identificar a cor do candle pelo calculo comparando os resultados
+
+=> Index <=
+
