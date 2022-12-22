@@ -20,6 +20,8 @@ npm install
 * [NodeJs](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
+* Axios
+* Vue JS
 
 ## 📄 Licença
 
