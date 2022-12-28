@@ -9,7 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 🔧 Instalação
 
-Em qualquer projeto apenas precisa baixar o repositório, abrir com o VisualStudio Code e digitar no terminal:
+Na maioria dos projetos basta fazer uma cópia do repositório, acessa-la pelo terminal e digitar:
 
 ```
 npm install
@@ -20,6 +20,8 @@ npm install
 * [NodeJs](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
+* Axios
+* Vue JS
 
 ## 📄 Licença
 
