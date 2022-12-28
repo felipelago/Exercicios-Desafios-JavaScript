@@ -11,7 +11,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 * Faça uma cópia do repositório para sua maquina;
 * Você vai precisar do docker instalado para rodar os containers (MongoDB e RabbitMQ);
-* Após a instalação você deve abrir pelo terminal as pastas "candle-api" e "candle-generator" onde contém o docker-compose.yml, em ambas você irá executar o comando "docker-compose up" para que o docker possa baixar as imagens e criar os containers das respectivas;
+* Após a instalação você deve abrir pelo terminal as pastas "candle-api" e "candle-generator" onde contém o docker-compose.yml, em ambas você irá executar o comando ```docker-compose up``` para que o docker possa baixar as imagens e criar os containers das respectivas;
   ```
   docker-compose up
   ```
