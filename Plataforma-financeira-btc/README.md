@@ -18,7 +18,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 * Se tudo ocorreu sem problemas basta acessar a aplicação pelo endereço localhost:8080
 
 
-## 🛠️ Construído com
+## 🛠️ Construído com:
 
 * JavaSript
 * NodeJS
