@@ -26,12 +26,12 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 * VueJS
 * Docker
 * Axios
-* AMQPLIB
-* Cors
-* DotEnv
+* AMQPLIB (Para fazer a conexão com a fila no rabbitmq)
+* Cors (Biblioteca para liberar o acesso aos endpoints)
+* DotEnv (Variáveis de ambiente)
 * Mongoose
-* Socket.io
-* Morgan
+* Socket.io (Biblioteca que vai permitir criar o websocket que envia as mensagens para o frontend)
+* Morgan (Logs)
 * PM2
 
 
